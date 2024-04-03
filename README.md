@@ -1,2 +1,7 @@
-# Bloggy
-Blogging website built using Node.js
+# Tech Stack used
+<ul>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>MongoDB Atlas</li>
+</ul>
+
