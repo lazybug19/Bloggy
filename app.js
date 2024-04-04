@@ -3,8 +3,7 @@ const morgan = require('morgan');
 const blogModel = require('./db');
 const mongoose = require('mongoose');
 
-//connection string through db user not admin (lazybug)
-const dbURI = 'mongodb+srv://blogger:1234@exercise-tracker.k5eslop.mongodb.net/';
+//.env editing (to be done)
 
 const app = express();
 
